@@ -1,0 +1,22 @@
+divide 100 per decade
+from 1ueV to 10MeV
+
+[[icru44_softtissue]]
+ratio weight
+el H 10.5
+el C 25.6
+el O 60.2
+el N 2.7
+density 1.03
+
+[[water]]
+ratio atom
+el H 2.
+el O 1.
+density 1.0
+
+[[h]]
+ratio atom
+el H 1.
+density 1.0
+
